@@ -46,11 +46,14 @@ This gives our team a unique value proposition: the combination of having both c
 
 **Cryptographic Knowledge:**  All team members possess intermediate-level expertise in applied cryptography, developed through comprehensive training in the PSE Core Program 2024.
 
+
 **Community Involvement:** Our experience within the community has been pivotal to our professional development, bolstered by our collaboration with the communities of Ethereum Costa Rica, EThereum Ecuador, and Ethereum Argentina. Following the completion of the PSE Core Program in LATAM, we established Privacy Lab LATAM, where we are actively sharing resources for expanding the world of programmable cryptography.
 - [Telegram Group](https://t.me/latamzk)  
 - [X Account](https://x.com/latamzk)
+  
 
 **Web Development Skills:** Competence in both frontend and backend web development.
+
 
 **Diverse Backgrounds:** Graduates of the program come from various disciplines, including computer science, mechatronics, software engineering, web development, and mathematics. This diversity of backgrounds enhances problem-solving and fosters innovation. 
 
@@ -64,13 +67,13 @@ This gives our team a unique value proposition: the combination of having both c
   - Github Username: padimaster
   - Role: Fullstack - PM
  
- - Name: Paul Rodas
+- Name: Paul Rodas
   - Discord Username: 0xarcano
   - Devfolio Username: 0xarcano
   - Github Username: _arkno_ 
   - Role: Senior developer/DevOps
 
- - Name: Carlos Israel Jimenez 
+- Name: Carlos Israel Jimenez 
   - Discord Username: carlos_israelj 
   - Devfolio Username: carlos_israelj 
   - Github Username: cijimenez
