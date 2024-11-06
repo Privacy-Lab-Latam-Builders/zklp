@@ -86,16 +86,16 @@ This gives our team a unique value proposition: the combination of having both c
   - Role: PM
 
 - Name: Nathalia Barreiros
-  - Discord Username: nathbarreiros 
-  - Devfolio Username: nathbarreiros
-  - Github Username: NathaliaBarreiros
-  - Role: Developer - Instructor
+    - Discord Username: nathbarreiros 
+    - Devfolio Username: nathbarreiros
+    - Github Username: NathaliaBarreiros
+    - Role: Developer - Instructor
 
 - Name: Daniel Arroyo 
-  - Discord Username: daniel0ar
-  - Devfolio Username: daniel0ar
-  - Github Username: daniel0ar
-  - Role: Smart Contract and FE developer
+    - Discord Username: daniel0ar
+    - Devfolio Username: daniel0ar
+    - Github Username: daniel0ar
+    - Role: Smart Contract and FE developer
 
 ### Team Code Repos
 
