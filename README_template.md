@@ -104,6 +104,20 @@ This gives our team a unique value proposition: the combination of having both c
 ### Team Code Repos
 
 ### Partners that trusted us in the past for collaborations
+* [Ethereum Argentina](https://ethereumargentina.org/)
+* [Ethereum Costa Rica](https://ethereum.cr/)
+* [ETH Ecuador](https://ethecuador.org/)
+* [ETH KIPU](https://www.ethkipu.org/en)
+* [Aztec](https://aztec.network/)
+* [Privacy Guardians](https://x.com/privacyguardia)
+* [Web3 Privacy Now](https://web3privacy.info/)
+* [Women in Web3 Privacy](https://www.womeninweb3privacy.com/)
+* [Anthalpa Labs](https://labs.antalpha.com/)
+* [Ethereum Tegucigalpa](https://x.com/ethereumTGU_)
+* [Ethereum Honduras](https://x.com/EthereumHN)
+* [Builder Monastery](https://www.buildermonastery.com/)
+* [NYM en Español](https://x.com/EspanolNym)
+* [FHEnix](https://www.fhenix.io/)
 
 **Work Done So Far:** We have already successfully conducted the LATAM edition of the PSE Core Program, yielding strong engagement and contributions from students.
 
