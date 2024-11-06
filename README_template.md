@@ -1,29 +1,59 @@
-# {ZK Developer Program}
+# ZK Developer Program
+
+### Overview
 
 The ZK Developer Program will be an online educational bootcamp designed to cultivate a new generation of contributors across Latin America.
+
 The program will be open to the entire region, focusing on Spanish-speaking participants, providing a highly engaging and personalized learning experience. 
 
 Participation will be open and structured in layers, with student performance evaluated throughout. Only those meeting the established criteria will access the specialization layer, delving into each PSE technology. Additionally, participants showing consistent progress will also have access to office hours with mentors.
-Comment
-Suggest edit
-Edit from here
 
 As a final layer, the program will encourage contributions to PSE repositories, addressing "first good issues" and collaborating on documentation. All content and classes will remain public and permissionless, following the Ethereum Fellowship Program model.
 
 One goal is to equip participants with foundational cryptography knowledge and open-source development skills. Also, the course equips participants with the skills to integrate advanced cryptographic tools into their projects.
 
 
-## Short Rationale
+### Short Rationale
+
+### Project Details 
+
+### Stages of the Program
+
+### Core Components
+
+### Relevant Prior Work: 
+
+##### Insights from the PSE Core Program 2024 in LATAM:
+
+## Team's experience
 
 ## Team Information
 
 **Project Members**
 
-- Name: {Full Name}
+- Name: Alex Padilla
   - Discord Username: {username}
   - Devfolio Username: {username}
   - Github Username: {username}
   - Role: {Role}
+ 
+ - Name: Paul Rodas
+  - Discord Username: {username}
+  - Devfolio Username: {username}
+  - Github Username: {username}
+  - Role: {Role}
+
+ - Name: Carlos Jimenez
+  - Discord Username: {username}
+  - Devfolio Username: {username}
+  - Github Username: {username}
+  - Role: {Role}
+
+
+
+### Team Code Repos
+
+### Partners that trusted us in the past for collaborations
 
 ## Technical Approach
 
