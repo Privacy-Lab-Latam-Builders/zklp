@@ -24,6 +24,10 @@ Additionally, we seek to provide Spanish-speaking students with high-quality lea
 
 ### Project Details 
 
+Program Content: The platform will offer a comprehensive introduction to Zero-Knowledge Proofs (ZKPs), focusing initially on ZK-SNARKs and ZK-STARKs. Emphasis will be placed on practical development using Circom with CircomLab, Rust with Halo2, and the Cairo and Noir languages for PSE projects.
+
+Additionally, repositories and Good First Issues will be compiled to promote community contributions. Submissions featuring documentation on how to apply PSE projects in practical contexts will receive additional credit. All sessions will be recorded and held without restrictions to ensure broad accessibility for the entire community.
+
 ### Stages of the Program
 
 ### Core Components
@@ -100,6 +104,8 @@ This gives our team a unique value proposition: the combination of having both c
 ### Team Code Repos
 
 ### Partners that trusted us in the past for collaborations
+
+**Work Done So Far:** We have already successfully conducted the LATAM edition of the PSE Core Program, yielding strong engagement and contributions from students.
 
 ## Technical Approach
 
