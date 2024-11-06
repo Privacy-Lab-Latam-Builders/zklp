@@ -85,13 +85,13 @@ This gives our team a unique value proposition: the combination of having both c
   - Github Username: lucilapastore
   - Role: PM
 
- - Name: Nathalia Barreiros
+- Name: Nathalia Barreiros
   - Discord Username: nathbarreiros 
   - Devfolio Username: nathbarreiros
   - Github Username: NathaliaBarreiros
   - Role: Developer - Instructor
 
- - Name: Daniel Arroyo 
+- Name: Daniel Arroyo 
   - Discord Username: daniel0ar
   - Devfolio Username: daniel0ar
   - Github Username: daniel0ar
