@@ -1,6 +1,7 @@
 # {ZK Developer Program}
 
 The ZK Developer Program will be an online educational bootcamp designed to cultivate a new generation of contributors across Latin America.
+The program will be open to the entire region, focusing on Spanish-speaking participants, providing a highly engaging and personalized learning experience. 
 
 Participation will be open and structured in layers, with student performance evaluated throughout. Only those meeting the established criteria will access the specialization layer, delving into each PSE technology. Additionally, participants showing consistent progress will also have access to office hours with mentors.
 Comment
@@ -12,6 +13,7 @@ As a final layer, the program will encourage contributions to PSE repositories, 
 One goal is to equip participants with foundational cryptography knowledge and open-source development skills. Also, the course equips participants with the skills to integrate advanced cryptographic tools into their projects.
 
 
+## Short Rationale
 
 ## Team Information
 
