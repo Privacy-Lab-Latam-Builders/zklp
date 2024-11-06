@@ -116,14 +116,14 @@ This gives our team a unique value proposition: the combination of having both c
 
 If you are applying for a sponsor project idea or grant, select the sponsors below.
 
-- [ ] Push Protocol
+- [X] Push Protocol
 - [ ] Polygon
 - [ ] Chainlink
 - [ ] Brevis
 - [ ] Orbiter
 - [ ] ZKM
 - [ ] Nethermind
-- [ ] PSE
+- [X] PSE
 - [ ] AltLayer
 
 ## What do you plan to achieve with your project?
