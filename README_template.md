@@ -38,30 +38,43 @@ Besides that, Alex Padilla and Lucila Pastore served as the program coordinators
 This gives our team a unique value proposition: the combination of having both completed the program and coordinated it gives us a comprehensive understanding of how to optimize the learning experience for this new format.
 
 ##### Insights from the PSE Core Program 2024 in LATAM:
+* [Argentina](https://x.com/SebaGiraudo/status/1835346419273625922)
+* [Costa Rica](https://x.com/EthereumCR/status/1829248150307020949/photo/1)
+* [Ecuador](https://x.com/padimaster/status/1821706312272494824)
 
 ## Team's experience
+
+**Cryptographic Knowledge:**  All team members possess intermediate-level expertise in applied cryptography, developed through comprehensive training in the PSE Core Program 2024.
+
+**Community Involvement:** Our experience within the community has been pivotal to our professional development, bolstered by our collaboration with the communities of Ethereum Costa Rica, EThereum Ecuador, and Ethereum Argentina. Following the completion of the PSE Core Program in LATAM, we established Privacy Lab LATAM, where we are actively sharing resources for expanding the world of programmable cryptography.
+- [Telegram Group](https://t.me/latamzk)  
+- [X Account](https://x.com/latamzk)
+
+**Web Development Skills:** Competence in both frontend and backend web development.
+
+**Diverse Backgrounds:** Graduates of the program come from various disciplines, including computer science, mechatronics, software engineering, web development, and mathematics. This diversity of backgrounds enhances problem-solving and fosters innovation. 
 
 ## Team Information
 
 **Project Members**
 
 - Name: Alex Padilla
-  - Discord Username: {username}
-  - Devfolio Username: {username}
-  - Github Username: {username}
-  - Role: {Role}
+  - Discord Username: padimasterec
+  - Devfolio Username: padimasterec
+  - Github Username: padimaster
+  - Role: Fullstack - PM
  
  - Name: Paul Rodas
-  - Discord Username: {username}
-  - Devfolio Username: {username}
-  - Github Username: {username}
-  - Role: {Role}
+  - Discord Username: 0xarcano
+  - Devfolio Username: 0xarcano
+  - Github Username: _arkno_ 
+  - Role: Senior developer/DevOps
 
- - Name: Carlos Jimenez
-  - Discord Username: {username}
-  - Devfolio Username: {username}
-  - Github Username: {username}
-  - Role: {Role}
+ - Name: Carlos Israel Jimenez 
+  - Discord Username: carlos_israelj 
+  - Devfolio Username: carlos_israelj 
+  - Github Username: cijimenez
+  - Role: Developer
 
 
 
