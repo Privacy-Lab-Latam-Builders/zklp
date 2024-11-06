@@ -104,11 +104,11 @@ This gives our team a unique value proposition: the combination of having both c
 ## Technical Approach
 
 - **Components** (Select all that apply)
-  - [ ] Frontend
-  - [ ] Backend
-  - [ ] Smart Contracts
+  - [X] Frontend
+  - [X] Backend
+  - [X] Smart Contracts
   - [ ] ZK Circuits
-  - [ ] Machine Learning (ML)
+  - [X] Machine Learning (ML)
 
 - High-level outline of the main technical components, tech you used and approaches used in the project.
 
