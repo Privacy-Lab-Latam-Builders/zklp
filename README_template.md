@@ -1,6 +1,17 @@
-# {Project Name}
+# {ZK Developer Program}
 
-Enter the name of your project above and provide a brief description of your project including what is the impact for the ecosystem or society.
+The ZK Developer Program will be an online educational bootcamp designed to cultivate a new generation of contributors across Latin America.
+
+Participation will be open and structured in layers, with student performance evaluated throughout. Only those meeting the established criteria will access the specialization layer, delving into each PSE technology. Additionally, participants showing consistent progress will also have access to office hours with mentors.
+Comment
+Suggest edit
+Edit from here
+
+As a final layer, the program will encourage contributions to PSE repositories, addressing "first good issues" and collaborating on documentation. All content and classes will remain public and permissionless, following the Ethereum Fellowship Program model.
+
+One goal is to equip participants with foundational cryptography knowledge and open-source development skills. Also, the course equips participants with the skills to integrate advanced cryptographic tools into their projects.
+
+
 
 ## Team Information
 
