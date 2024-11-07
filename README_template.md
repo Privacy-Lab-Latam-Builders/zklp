@@ -158,7 +158,7 @@ What is the plan for this project from now on? Do you plan to continue to work o
 
 ## Project Links (For Submission)
 
-Please provide links for the project repo and to any relevant documentation, code, or other resources that you've used in your project.
+https://github.com/Privacy-Lab-Latam-Builders/moodle-web3
 
 ## Video Demo (For Submission)
 
